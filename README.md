@@ -12,7 +12,6 @@ Also check out a similar project I made on Rasa 1.x via this link: https://githu
 ## Files in Rasa Folder
 A brief rundown of the purpose of some of the files, which are closely interconnected with one another.
 
-<a href="https://ibb.co/MCmsThG"><img src="https://i.ibb.co/rwVmPtc/Screenshot-2020-07-03-at-11-47-51-AM.png" alt="Screenshot-2020-07-03-at-11-47-51-AM" border="0"></a>
 
 - actions.py
 	This file contains all written Python code of custom actions.
